@@ -1,0 +1,1 @@
+g++ -std=c++17 -o main main.cpp BlockGame.cpp Player.cpp Game.cpp Move.cpp MainBlock.cpp MainNode.cpp MainChain.cpp  -pthread -lssl -lcrypto
